@@ -1,0 +1,25 @@
+# Large model files — don't commit trained weights to git (use Git LFS or a release/Drive link instead)
+*.keras
+*.h5
+
+# Dataset (never commit raw data)
+data/
+*.jpg
+*.jpeg
+*.png
+!results/figures/*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
