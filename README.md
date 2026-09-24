@@ -47,4 +47,4 @@ See [`requirements.txt`](requirements.txt).
 
 ## Author
 
-[Your name] — Final Year Project, [Your Program/University]
+Ismail Chahboune — Personal project
