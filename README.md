@@ -1,4 +1,4 @@
-# Concrete Crack Classification — Final Year Project
+# Concrete Crack Classification 
 
 Binary image classification of concrete surface cracks using deep learning, comparing a custom CNN trained from scratch against a fine-tuned EfficientNetB0 transfer learning model.
 
